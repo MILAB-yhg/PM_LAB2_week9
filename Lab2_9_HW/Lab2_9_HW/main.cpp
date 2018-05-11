@@ -8,4 +8,5 @@ void main() {
 	/* TODO:
 		print your name & student ID 	
 	*/
+	cout << "2017-11517 ¾çÇýÀ±" << endl;
 }
