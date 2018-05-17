@@ -4,8 +4,6 @@ using namespace std;
 
 void main() {
 	cout << "hello word!" << endl;
-
-	/* TODO:
-		print your name & student ID 	
-	*/
+	
+	cout << "박찬정 2017-17088" << endl;
 }
