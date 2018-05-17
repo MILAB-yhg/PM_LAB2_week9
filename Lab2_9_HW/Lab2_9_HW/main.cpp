@@ -5,7 +5,5 @@ using namespace std;
 void main() {
 	cout << "hello word!" << endl;
 
-	/* TODO:
-		print your name & student ID 	
-	*/
+	cout << "JaehongPark 2017-18643" << endl;
 }
